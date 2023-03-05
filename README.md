@@ -1,1 +1,2 @@
-# Aygaz_Artificial_Intelligence_Literacy_Bootcamp
+With the Aygaz Artificial Intelligence Literacy Bootcamp program, I completed the graduation project on what can be done with artificial intelligence in the field of earthquakes. I hope it has been a solution proposal that can be useful for our future. Thank you for taking the time to review.
+![1](https://user-images.githubusercontent.com/101572852/222964805-9b0f14ea-1fa3-46bd-94ef-0470f8c2511c.jpg)
